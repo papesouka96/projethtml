@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+}
+
+.pert{
+    height: 100%;
+    display: flex;
+}
+.cert{
+   width: 100%;
+   height: 300px;
+   background-color: white;
+   border: 5px solid black;
+margin: 6px;
+  text-align: center;
+
+  
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    transform: rotate(90deg);
+    font-size: 45px;
+}
